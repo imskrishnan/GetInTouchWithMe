@@ -1,0 +1,153 @@
+body {
+  background-color: #222831;
+  border-color: black;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  color: #11999E;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 4.6875rem;
+  /* color: #0A2342; */
+  margin: 0;
+  font-family: 'Pacifico', cursive;
+  margin-top: 50px;
+  color: #46B1C9;
+}
+
+h2 {
+  font-size: 3rem;
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  margin-bottom: 50px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  font-size: 2rem;
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  color: #11999E;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-size: 1.5625rem;
+  margin: 0;
+  font-family: 'Zilla Slab', serif;
+}
+
+/*********************CLASS SELCTORS************************/
+.main-desc {
+  font-size: 2.5rem;
+  font-family: 'Raleway', sans-serif;
+  color: #46B1C9;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #AFF3FE;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #0A2342;
+  color: #EBFCFF;
+}
+
+.skills {
+  background-color: #FFC857;
+  color: black;
+}
+
+.myDesc {
+  padding-top: 20px;
+}
+
+.bottom-container {
+  background-color: black;
+  padding: 20px;
+  color: white;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.profile {
+  padding: 40px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skills {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 75%;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.programming-skills {
+  width: 25%;
+  float: left;
+  margin: 15px auto 15px auto;
+}
+
+.comm-skill {
+  width: 25%;
+  float: left;
+  margin: auto;
+}
+
+.getInTouch {
+  color: #7E5225;
+}
+
+.contact-me {
+  background-color: #F2E2D2;
+  padding: 30px;
+}
+
+.linkedIn-icon, .mail-icon, .twitter-icon, .instagram-icon {
+  margin: 20px;
+}
+
+.linkedIn-img, .twitter-img, .mail-img, .instagram-img {
+  margin: 10px;
+}
+
+.bottom-para {
+  margin:0;
+}
